@@ -1,6 +1,11 @@
 ---
 layout: default
+title: Purple Pear
 ---
 
+# Purple Pear
 
-# purple-pear.github.io
+Welcome to my website.
+
+- [Privacy Policy (English)](/privacy-en)
+- [Polityka prywatności (Polski)](/privacy-pl)
