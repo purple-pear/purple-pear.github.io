@@ -7,5 +7,4 @@ title: Czytelnik
 
 Description of czytelnik
 
-- [Privacy Policy (EN)](privacy-en)
-- [Polityka prywatności (PL)](privacy-pl)
+- [Privacy Policy / Polityka prywatności](privacy)
